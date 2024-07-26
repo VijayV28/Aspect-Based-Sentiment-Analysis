@@ -11,8 +11,7 @@ This project consists of a Django-based API for sentiment analysis and a Streaml
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
-    cd your-repository-name
+    git clone https://github.com/VijayV28/Aspect-Based-Sentiment-Analysis.git
     ```
 
 2. **Create and activate a virtual environment:**
