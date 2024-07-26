@@ -8,4 +8,4 @@ env.bak/
 venv.bak/
 
 /notebooks/checkpoints/
-models/
+models/ATEPC_ENGLISH_CHECKPOINT/
