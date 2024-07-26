@@ -9,3 +9,6 @@ venv.bak/
 
 /notebooks/checkpoints/
 models/ATEPC_ENGLISH_CHECKPOINT/
+Aspect Term Extraction and Polarity Classification.FAST_LCF_ATEPC.result.json
+checkpoints.json
+.sqlite3
